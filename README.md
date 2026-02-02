@@ -20,3 +20,4 @@ CSS3 – Styling and responsive layout
 JavaScript (ES6) – Logic & API integration
 
 Weather API – For fetching real-time weather data
+
