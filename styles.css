@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url("pic22.jpg");
+    text-align: center;
+    margin: 0;
+    padding: 100px;
+    
+   
+}
+
+.container {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    display: inline-block;
+}
+
+#locationInput {
+    margin-bottom: 20px;
+}
+
+#locationInput input {
+    padding: 10px;
+    font-size: 16px;
+}
+
+#locationInput button {
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#weatherInfo {
+    margin-top: 20px;
+}
